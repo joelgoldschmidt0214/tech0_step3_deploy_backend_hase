@@ -329,7 +329,7 @@ cython_debug/
 .cursorindexingignore
 
 # Azure
-*.pem
+# *.pem
 
 # SQLite
 *.db
